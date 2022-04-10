@@ -23,6 +23,8 @@ I have also created a Search Engine Optimisation capability to be an expert in c
 <a href="#"><img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Amazon%20AWS-535D6C?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a>
 
+<a href="#"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=Visual%20Studio&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>
 
 
 <a href="#"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF5A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/></a>
