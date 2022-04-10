@@ -33,3 +33,4 @@ I have also created a Search Engine Optimisation capability to be an expert in c
 <a href="#"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-1B72BE?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Adobe%20After%20Effects-5468FF?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Adobe%20XD-981E32?style=flat-square&logo=Adobe%20XD&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=Microsoft%20Office&logoColor=white"/></a>
