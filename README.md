@@ -21,7 +21,7 @@ I have also created a Search Engine Optimisation capability to be an expert in c
 <a href="#"><img src="https://img.shields.io/badge/jQuery-3C5280?style=flat-square&logo=jQuery&logoColor=white"/></a>
 
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/WordPress-0E9648?style=flat-square&logo=WordPress&logoColor=white"/></a>
 
 <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/GitHub-303030?style=flat-square&logo=GitHub&logoColor=white"/></a>
@@ -39,5 +39,5 @@ I have also created a Search Engine Optimisation capability to be an expert in c
 <a href="#"><img src="https://img.shields.io/badge/Adobe%20After%20Effects-5468FF?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Adobe%20XD-981E32?style=flat-square&logo=Adobe%20XD&logoColor=white"/></a>
 
-<a href="#"><img src="https://img.shields.io/badge/Microsoft%20Office-D83B01?style=flat-square&logo=Microsoft%20Office&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Microsoft%20Office-52B54B?style=flat-square&logo=Microsoft%20Office&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
