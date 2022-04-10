@@ -8,7 +8,6 @@ In terms of visual design, I have rich experiences in web, package, editing, pub
 And I have developed various brand sites and e-commerce websites in front-end development.
 I have also created a Search Engine Optimisation capability to be an expert in commercial web fields by boosting search marketing.
 
-### Skills
+### Tech Stack
 <a href="#"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/?style=flat&logo=appveyor&logo=Adobe%20Photoshop-Adobe%20Photoshop-yellow"/></a>
+
