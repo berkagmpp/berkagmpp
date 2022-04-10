@@ -14,7 +14,7 @@ I have also created a Search Engine Optimisation capability to be an expert in c
 <a href="#"><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
 
-<a href="#"><img src="https://img.shields.io/badge/JavaScript-E05F2C?style=flat-square&logo=JavaScript&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/JavaScript-E53238?style=flat-square&logo=JavaScript&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/React-005FED?style=flat-square&logo=React&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=Angular&logoColor=white"/></a>
@@ -32,7 +32,7 @@ I have also created a Search Engine Optimisation capability to be an expert in c
 <a href="#"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white"/></a>
 
 
-<a href="#"><img src="https://img.shields.io/badge/Adobe%20Illustrator-FF5A00?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Adobe%20Illustrator-D4911E?style=flat-square&logo=Adobe%20Illustrator&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Adobe%20Photoshop-23C8D2?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Adobe%20InDesign-C41E25?style=flat-square&logo=Adobe%20InDesign&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-1B72BE?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white"/></a>
