@@ -9,4 +9,4 @@ And I have developed various brand sites and e-commerce websites in front-end de
 I have also created a Search Engine Optimisation capability to be an expert in commercial web fields by boosting search marketing.
 
 ### Skills
-<a href="#"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Adobe%20Photoshop-11B48A?style=flat-square&logo=Vimeo&logoColor=white"/></a>
