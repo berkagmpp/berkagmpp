@@ -1,16 +1,12 @@
-### Hi there 👋
+# BERKAGMPP
+### I AM CLAIRE AHN,
+Learner / Web Developer
 
-<!--
-**berkagmpp/berkagmpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I am enthusiastic about front-end web development.
+I have two degrees in visual design and web development, and I work as a web developer and visual graphic designer.
+In terms of visual design, I have rich experiences in web, package, editing, publishing, and motion graphics. 
+And I have developed various brand sites and e-commerce websites in front-end development.
+I have also created a Search Engine Optimisation capability to be an expert in commercial web fields by boosting search marketing.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+<img src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=C&logoColor=black"/>
