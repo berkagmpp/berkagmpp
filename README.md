@@ -10,4 +10,5 @@ I have also created a Search Engine Optimisation capability to be an expert in c
 
 ### Tech Stack
 <a href="#"><img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=flat-square&logo=Adobe%20Photoshop&logoColor=white"/></a>
-
+<a href="#"><img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF?style=flat-square&logo=Adobe%20After%20Effect&logoColor=white"/></a>
+<a href="#"><img src="https://img.shields.io/badge/Adob%20XD-#FF61F6?style=flat-square&logo=Adob%20XD&logoColor=white"/></a>
