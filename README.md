@@ -3,10 +3,15 @@
 Learner / Web Developer
 
 💻 I want to be a Front-end Developer.
+
 🔭 I am Interested in Web, Responsive design and Cloud.
+
 🌱 I am currently learning JavaScript / React.
+
 📫 How to reach me: berkagmpp@gmail.com
+
 😄 I speak English and Korean.
+
 
 > I am enthusiastic about front-end web development.
 I have two degrees in visual design and web development, and I work as a web developer and visual graphic designer.
