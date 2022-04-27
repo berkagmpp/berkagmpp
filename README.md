@@ -1,5 +1,5 @@
 # Hello World! I am Claire Ahn!
-Learner / Web Developer / former Grapghic Designer
+Learner / Web Developer / former Graphic Designer
 --------------------------------------------------------
 
 💻 I want to be a Front-end Developer.
