@@ -1,6 +1,6 @@
-# BERKAGMPP
-### I AM CLAIRE AHN,
-Learner / Web Developer
+# Hello World! I am Claire Ahn!
+Learner / Web Developer / former Grapghic Designer
+--------------------------------------------------------
 
 💻 I want to be a Front-end Developer.
 
