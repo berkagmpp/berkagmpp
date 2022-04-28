@@ -3,7 +3,7 @@
   
   <h1> Hello World! I am Claire Ahn! </h1>
   <h3>Learner / Web Developer / former Graphic Designer</h3>
-  
+  <h4> Recently studies Web Development Diploma at &nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVNasSGovjJlqWQd6e3RIaF0VJiTauLLlJg&amp;usqp=CAU" alt="Open Polytechnic" width="20" height="20" /> &nbsp; The Open Polytechnic of New Zealand </h4>
   <br>
   
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
@@ -33,7 +33,7 @@
   And I have developed various brand sites and e-commerce websites in front-end development.<br>
   I have also created a Search Engine Optimisation capability to be an expert in commercial web fields by boosting search marketing.  
 
-  <br>
+  <br> <br>
 
   ## My Github Stats
 
@@ -41,7 +41,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkagmpp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-  <br>
+  <br> <br>
 
   ## Tech Stack && Learning
 
@@ -77,7 +77,7 @@
   <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Office-52B54B?style=flat-square&logo=Microsoft%20Office&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white"/></a>
 
-  <br>
+  <br> <br>
 
   ## My Current Study & Project are:
 
