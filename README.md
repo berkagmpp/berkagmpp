@@ -19,7 +19,7 @@
   <a href="mailto:berkagmpp@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail" width="45" height="45" />
   </a> 	&nbsp;	&nbsp;	&nbsp;	&nbsp;
-  <a target="_blank" href="https://www.linkedin.com/in/berkagmpp">
+  <a href="https://www.linkedin.com/in/berkagmpp" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="45" height="45" alt="Linkedin" />
   </a>
 
