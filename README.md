@@ -23,7 +23,7 @@
     <img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="45" height="45" alt="Linkedin" />
   </a> &nbsp;	&nbsp;	&nbsp;	&nbsp;
     <a href="https://www.hackerrank.com/berkagmpp?hr_r=1" target="_blank">
-    <img src="https://user-images.githubusercontent.com/84049077/165660015-f9819fef-03ed-4388-ba27-14b85ab88e7b.png" width="45" alt="HackerRank" />
+    <img src="https://user-images.githubusercontent.com/84049077/165660328-59444c89-a15d-42e3-b4fd-5b5cc65c657b.png" width="45" alt="HackerRank" />
   </a>
 
   <br><br><br>
