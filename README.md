@@ -21,6 +21,9 @@
   </a> 	&nbsp;	&nbsp;	&nbsp;	&nbsp;
   <a href="https://www.linkedin.com/in/berkagmpp" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="45" height="45" alt="Linkedin" />
+  </a> &nbsp;	&nbsp;	&nbsp;	&nbsp;
+    <a href="https://www.hackerrank.com/berkagmpp?hr_r=1" target="_blank">
+    <img src="https://user-images.githubusercontent.com/84049077/165659185-9674998c-3b4e-4c39-8da3-68771b241d33.png" width="45" alt="HackerRank" />
   </a>
 
   <br><br><br>
