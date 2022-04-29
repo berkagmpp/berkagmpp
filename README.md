@@ -27,7 +27,15 @@
   </a>
 
   <br><br><br>
-
+  
+  These days, <br>
+  I solve algorithms with JavaScript to develop problem-solving skills,<br>
+  build sites that can show my work, <br>
+  or implement small React projects while studying. <br>
+  And I'm pushing these on GitHub.
+  
+  <br><br><br>
+  
   ## And I...
 
   am enthusiastic about front-end web development.<br>
