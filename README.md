@@ -8,7 +8,7 @@
   
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
   <br><br>
-  💻 I want to be a Front-end Developer.  
+  💻 I am a Front-end Developer.  
   <br><br>
   🔭 I am Interested in Web, Responsive design and Cloud.  
   <br><br>
