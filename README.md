@@ -2,13 +2,13 @@
 <div align=center>
   
   <h1> Hello World! I am Claire Ahn! </h1>
-  <h3>Learner / Web Developer / former Graphic Designer</h3>
+  <h3>Learner / Graphic Designer / Web Developer</h3>
   <h4> Recently studied Web Development Diploma at &nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVNasSGovjJlqWQd6e3RIaF0VJiTauLLlJg&amp;usqp=CAU" alt="Open Polytechnic" width="20" height="20" /> &nbsp; The Open Polytechnic of New Zealand </h4>
   <br>
   
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
   <br><br>
-  💻 I am a Front-end Developer.  
+  💻 I am a UX UI Designer and Front-end Developer.  
   <br><br>
   🔭 I am Interested in Web, Responsive design and Cloud.  
   <br><br>
