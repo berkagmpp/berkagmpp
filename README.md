@@ -16,7 +16,7 @@
   <br><br>
   📫 Connect with me:  
   <br><br>
-  <a href="mailto:berkagmpp@gmail.com" target="_blank">
+  <a href="mailto:berkagmpp@gmail.com" target="_blank" rel="noreferrer noopener">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail" width="45" height="45" />
   </a> 	&nbsp;	&nbsp;	&nbsp;	&nbsp;
   <a href="https://www.linkedin.com/in/berkagmpp" target="_blank">
