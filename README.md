@@ -16,13 +16,13 @@
   <br><br>
   📫 Connect with me:  
   <br><br>
-  <a href="mailto:berkagmpp@gmail.com">
+  <a href="mailto:berkagmpp@gmail.com" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="gmail" width="45" height="45" />
   </a> 	&nbsp;	&nbsp;	&nbsp;	&nbsp;
   <a href="https://www.linkedin.com/in/berkagmpp" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="45" height="45" alt="Linkedin" />
   </a> &nbsp;	&nbsp;	&nbsp;	&nbsp;
-  <a href="https://myreals.tistory.com">
+  <a href="https://myreals.tistory.com" target="_blank">
     <img src="https://i.namu.wiki/i/Jz0MFNR7_7LHx1Yda0Hy6929g3BD5fWmaARdUMMFPkFIAVC_ewY7BEcoIGhepmTKRBKmSxRSUBjI7pklIZLaAA.svg" alt="tstory" width="45" height="45" />
       </a> &nbsp;	&nbsp;	&nbsp;	&nbsp;
     <a href="https://www.hackerrank.com/berkagmpp?hr_r=1" target="_blank">
