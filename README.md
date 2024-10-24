@@ -3,7 +3,7 @@
   
   <h1> Hello World! I am Claire Ahn! </h1>
   <h3>Learner / Graphic Designer / Web Developer</h3>
-  <h4> Recently studied Web Development Diploma at &nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVNasSGovjJlqWQd6e3RIaF0VJiTauLLlJg&amp;usqp=CAU" alt="Open Polytechnic" width="20" height="20" /> &nbsp; The Open Polytechnic of New Zealand </h4>
+  <h4> Studied Web Development Diploma at &nbsp; <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXVNasSGovjJlqWQd6e3RIaF0VJiTauLLlJg&amp;usqp=CAU" alt="Open Polytechnic" width="20" height="20" /> &nbsp; The Open Polytechnic of New Zealand </h4>
   <br>
   
   <img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif" />
@@ -22,6 +22,9 @@
   <a href="https://www.linkedin.com/in/berkagmpp" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="45" height="45" alt="Linkedin" />
   </a> &nbsp;	&nbsp;	&nbsp;	&nbsp;
+  <a href="https://myreals.tistory.com">
+    <img src="https://i.namu.wiki/i/Jz0MFNR7_7LHx1Yda0Hy6929g3BD5fWmaARdUMMFPkFIAVC_ewY7BEcoIGhepmTKRBKmSxRSUBjI7pklIZLaAA.svg" alt="tstory" width="45" height="45" />
+      </a> &nbsp;	&nbsp;	&nbsp;	&nbsp;
     <a href="https://www.hackerrank.com/berkagmpp?hr_r=1" target="_blank">
     <img src="https://user-images.githubusercontent.com/84049077/165661010-887b8ac9-8b83-4f21-bfe3-a905660a2f15.png" height="42" alt="HackerRank" />
   </a>
